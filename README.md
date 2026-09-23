@@ -8,8 +8,6 @@
 <!-- ═══════════════════════════════════════════════════════════════
      2. TYPING HEADER
      ═══════════════════════════════════════════════════════════════ -->
-<img align="left" width="120" src="https://api.dicebear.com/7.x/lorelei/svg?seed=Varshini&backgroundColor=b6e3f4&radius=50" alt="avatar"/>
-
 <p align="center">
   <a href="https://github.com/VarshiniRajesh-1408">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Varshini+%F0%9F%91%8B;LLM+Model+Trainer+Intern+%40+Ethara.ai;AI+%2F+ML+%7C+Deep+Learning+%7C+NLP;Full-Stack+Developer+%7C+MERN+Stack" alt="Typing SVG"/>
@@ -23,38 +21,39 @@
   <img src="https://img.shields.io/badge/Madurai%2C%20India-2081C3?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
-<br clear="left"/>
-
 <!-- ═══════════════════════════════════════════════════════════════
      3. CODE-BLOCK ABOUT ME
      ═══════════════════════════════════════════════════════════════ -->
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class VarshiniDevi:
     def __init__(self):
         self.name = "Varshini Devi R"
         self.location = "Madurai, India"
-        self.degree = "B.Tech CSE (AI & ML), Kalasalingam Academy of Research and Education"
+        self.degree = "B.Tech CSE (AI & ML)"
+        self.college = "Kalasalingam Academy"
 
         self.stack = [
             "Python", "Java", "JavaScript",
             "React.js", "Node.js", "Express.js",
-            "TensorFlow", "PyTorch", "Scikit-learn",
-            "MongoDB", "SQL"
+            "TensorFlow", "PyTorch",
+            "Scikit-learn", "MongoDB", "SQL"
         ]
 
         self.currentlyLearning = [
-            "Advanced NLP & Transformer architectures",
+            "Advanced NLP & Transformers",
             "MLOps & Model Deployment",
             "System Design"
         ]
 
-        self.funFact = "Took 'NeuroGlow' — an ADHD-support headband concept — " \
-                        "from an Ideathon all the way to SIH pre-finals."
+        self.funFact = (
+            "Took NeuroGlow (ADHD headband) "
+            "from an Ideathon to SIH pre-finals"
+        )
 
     def motto(self):
-        return "Train the model. Trust the process. Ship the solution."
+        return "Train. Trust the process. Ship."
 
 
 varshini = VarshiniDevi()
@@ -110,16 +109,13 @@ print(varshini.motto())
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════
-     5 & 6. GITHUB STATS + TOP LANGUAGES (side by side)
+     5 & 6. GITHUB SNAPSHOT (reliable shields.io badges)
      ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <a href="https://github.com/VarshiniRajesh-1408">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=VarshiniRajesh-1408&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/VarshiniRajesh-1408">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarshiniRajesh-1408&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/VarshiniRajesh-1408?label=Followers&style=for-the-badge&logo=github&color=6a11cb&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FVarshiniRajesh-1408&color=2081C3&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Gists&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FVarshiniRajesh-1408&color=70A5FD&labelColor=0d1117"/>
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════
      7. STREAK STATS
@@ -136,10 +132,12 @@ print(varshini.motto())
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════
-     9. TROPHY WALL
+     9. TECH RADAR (replaces unreliable Trophy Wall)
      ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VarshiniRajesh-1408&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+  <img src="https://img.shields.io/badge/AI%2FML%20Engineer-70A5FD?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Full--Stack%20Dev-BF91F3?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Hackathon%20Winner-38BDAE?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════
