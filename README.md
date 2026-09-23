@@ -8,6 +8,8 @@
 <!-- ═══════════════════════════════════════════════════════════════
      2. TYPING HEADER
      ═══════════════════════════════════════════════════════════════ -->
+<img align="left" width="120" src="https://api.dicebear.com/7.x/lorelei/svg?seed=Varshini&backgroundColor=b6e3f4&radius=50" alt="avatar"/>
+
 <p align="center">
   <a href="https://github.com/VarshiniRajesh-1408">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Varshini+%F0%9F%91%8B;LLM+Model+Trainer+Intern+%40+Ethara.ai;AI+%2F+ML+%7C+Deep+Learning+%7C+NLP;Full-Stack+Developer+%7C+MERN+Stack" alt="Typing SVG"/>
@@ -15,11 +17,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/varshini-devi-35b877268/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:varshinidevi1978@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://varshini1408.github.io/My_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-6A11CB?style=flat-square&logo=googlechrome&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Madurai%2C%20India-2081C3?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/varshini-devi-35b877268/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:varshinidevi1978@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://varshini1408.github.io/My_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-6A11CB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Madurai%2C%20India-2081C3?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
+
+<br clear="left"/>
 
 <!-- ═══════════════════════════════════════════════════════════════
      3. CODE-BLOCK ABOUT ME
@@ -66,43 +70,43 @@ print(varshini.motto())
 
 **Languages**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 **Frameworks**
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
 **Cloud & DevOps**
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
 **Databases**
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 **Tools**
 <p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════
@@ -135,7 +139,7 @@ print(varshini.motto())
      9. TROPHY WALL
      ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VarshiniRajesh-1408&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=VarshiniRajesh-1408&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════
@@ -177,8 +181,19 @@ print(varshini.motto())
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Faculty Grading System](https://github.com/VarshiniRajesh-1408)** | React.js · Node.js · MongoDB · HTML/CSS | In-house, college-wide faculty evaluation platform; streamlined the entire assessment workflow with a user-focused UI |
-| **[Team Task Manager](https://github.com/VarshiniRajesh-1408)** | React.js · Node.js · Express.js · MongoDB · JWT | Full-stack task management system with JWT auth, task assignment, time tracking, and analytics across the MERN stack |
+| **[Faculty Grading System](https://github.com/raseen2305/Online-Evaluation-main)** | React.js · Node.js · MongoDB · HTML/CSS | In-house, college-wide faculty evaluation platform; streamlined the entire assessment workflow with a user-focused UI |
+| **[Team Task Manager](https://github.com/VarshiniRajesh-1408/TEAM-TASK-MANAGER)** | React.js · Node.js · Express.js · MongoDB · JWT | Full-stack task management system with JWT auth, task assignment, time tracking, and analytics across the MERN stack |
+
+</div>
+
+### 📦 Open Source Stats
+
+<div align="center">
+
+| Project | ⭐ Stars | 🍴 Forks | 🐛 Issues |
+|---|---|---|---|
+| [Team Task Manager](https://github.com/VarshiniRajesh-1408/TEAM-TASK-MANAGER) | ![Stars](https://img.shields.io/github/stars/VarshiniRajesh-1408/TEAM-TASK-MANAGER?style=flat-square&color=70A5FD&label=) | ![Forks](https://img.shields.io/github/forks/VarshiniRajesh-1408/TEAM-TASK-MANAGER?style=flat-square&color=BF91F3&label=) | ![Issues](https://img.shields.io/github/issues/VarshiniRajesh-1408/TEAM-TASK-MANAGER?style=flat-square&color=38BDAE&label=) |
+| [Faculty Grading System](https://github.com/raseen2305/Online-Evaluation-main) | ![Stars](https://img.shields.io/github/stars/raseen2305/Online-Evaluation-main?style=flat-square&color=70A5FD&label=) | ![Forks](https://img.shields.io/github/forks/raseen2305/Online-Evaluation-main?style=flat-square&color=BF91F3&label=) | ![Issues](https://img.shields.io/github/issues/raseen2305/Online-Evaluation-main?style=flat-square&color=38BDAE&label=) |
 
 </div>
 
